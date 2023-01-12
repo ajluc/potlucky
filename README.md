@@ -4,7 +4,7 @@
 
 ---
 
-### **Deployed Page:** [Potlucky](https://feelingpotlucky.herokuapp.com/)
+### **Deployed Page:** [Potlucky](https://imfeelingpotlucky.herokuapp.com/)
 
 ---
 
@@ -26,7 +26,7 @@
 
 <br />
 
-#### **_Link to frontend -->_** [Potlucky frontend repository](https://github.com/ralicynf/potlucky-front-end)
+#### **_Link to frontend -->_** [Potlucky frontend repository](https://github.com/ajluc/potlucky-frontend)
 
 ---
 
